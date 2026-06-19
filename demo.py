@@ -1,0 +1,1 @@
+friuts=["apple","banana","cherry"]
